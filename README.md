@@ -13,10 +13,13 @@ CARVIA is an all-in-one Smart Mobility and Fleet Management ecosystem that integ
 * **Live Safety Alerts:** Auto-detects driver fatigue, distraction, or drowsiness and triggers immediate safety warnings.
 
 ### 🚗 Smart Mobility Modules
-* **Car Rental System:** End-to-end car rental booking interface with user profile tracking.
+* **Car Rental System:** End-to-end car rental booking interface with user profile tracking and reservation logs.
 * **Vehicle Marketplace (Buy & Sell):** A clean interface for users to list, trade, buy, and sell cars.
+* **Interactive Price Negotiation:** Built-in peer-to-peer (P2P) negotiation system where buyers can make offers, and sellers can accept, reject, or counter-offer.
+* **Gamified Coins Wallet & Referrals:** Users receive unique referral codes (e.g. `CARVIA-XXXXXX`) that grant 1000 virtual coins to both the referrer and referee upon sign up, complete with a transaction history log.
+* **Rewards Redemption Shop:** A store where users can spend their accumulated coins to redeem various items and track shipping statuses.
 * **Diagnostics & Maintenance:** Track vehicle health logs, system diagnostics, and book maintenance/repair services.
-* **Admin Command Center:** Complete panel for managers to oversee the fleet, monitor system statuses, and check security logs.
+* **Admin Command Center:** Complete panel for managers to oversee the fleet, approve listings, process redemptions, and monitor system statuses.
 * **AI Support Chatbot:** Integrated assistant to resolve user queries on the go.
 
 ---
